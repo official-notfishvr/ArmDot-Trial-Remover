@@ -1,0 +1,4 @@
+<Solution>
+    <Project Path="Fishy Deobfuscator/Fishy Deobfuscator.csproj" />
+    <Project Path="Fishy.Core/Fishy.Core.csproj" />
+</Solution>
